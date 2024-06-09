@@ -1,0 +1,23 @@
+body{
+    background-color:#24353f !important;
+}
+
+.item{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.item h1{
+    color: #17a2b8;
+}
+.item .form-control:focus {
+    border-color: #80bdff;
+    outline: 0;
+}
+.item a{
+    text-decoration:none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
